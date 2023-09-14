@@ -7,7 +7,6 @@ Sleep Disorder Evaluation and Sleep Pattern Enhancement Study
  * Step 4: Open Anaconda-Navigator and launch jupyter notebook .
  * Step 5: Go to Desktop -> sleeping.pattern -> sleep.analysis.ipynb and launch it .
    
-Sleep Pattern Enhancement Study
 
 # Step 1: Data Preprocessing:
 * Importing a dataset from a CSV file and performing initial data exploration.
