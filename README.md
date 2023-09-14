@@ -1,7 +1,5 @@
 # sleeping.pattern
 Sleep Disorder Evaluation and Sleep Pattern Enhancement Study
-# real.estate.pp
-Real Estate Price Prediction and Analysis
 # How To see code in action
  * Step 1: Download Sleep_health_and_lifestyle_dataset.csv as given data .
  * Step 2: Download Real.Estates.PP.ipynb.webloc .
