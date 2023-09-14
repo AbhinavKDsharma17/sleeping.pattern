@@ -2,10 +2,10 @@
 Sleep Disorder Evaluation and Sleep Pattern Enhancement Study
 # How To see code in action
  * Step 1: Download Sleep_health_and_lifestyle_dataset.csv as given data .
- * Step 2: Download Real.Estates.PP.ipynb.webloc .
- * Step 3: Save both the file in Desktop as real.estate.pp .
+ * Step 2: Download sleep.analysis.ipynb .
+ * Step 3: Save both the file in Desktop as sleeping.pattern .
  * Step 4: Open Anaconda-Navigator and launch jupyter notebook .
- * Step 5: Go to Desktop -> real.estate.pp -> Real.Estates.PP and launch it .
+ * Step 5: Go to Desktop -> sleeping.pattern -> sleep.analysis.ipynb and launch it .
    
 Sleep Pattern Enhancement Study
 
